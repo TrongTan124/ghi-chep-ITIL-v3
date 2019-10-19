@@ -43,6 +43,8 @@ Sau 3-5 ngày làm việc thì sẽ có email báo kết quả. Ngay lúc thi xo
 
 Mất 40$ để họ in và gửi bản cứng certificate cho mình. Tôi không có nhu cầu xài bản cứng nên ko bỏ 40$ này.
 
+![Certificate](images/Certificate.png)
+
 ## Cont...
 
 ITIL Foundation chỉ là bước chân đầu tiên đi vào thế giới quản trị. Coi như có thế nói chuyện cùng ngôn ngữ với nhau ở cấp độ quản lý. Muốn đi sâu vào từng phase thì bạn phải học từ chuyên gia. 
