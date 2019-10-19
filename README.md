@@ -15,7 +15,9 @@ Câu hỏi này rất hay. Câu trả lời là tất cả những ai đang làm
 
 ITIL là một khung kiến thức để cho bạn tham khảo. Vì nó là khung (framework) nên nó rất rộng. Ngoài ra, nó không cụ thể như khi bạn làm công nghệ, khi học ITIL thì bạn chỉ có đọc sách để hiểu khái niệm, phương pháp. còn làm việc thì phải phải học ITSM (IT service management)
 
+### Làm thế nào để thi chứng chỉ ITIL Foundation.
 
+- Đọc bài kế tiếp.
 
 ----
 Mọi ý kiến đóng góp có thể phản hồi theo địa chỉ sau:
