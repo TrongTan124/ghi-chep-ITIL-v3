@@ -7,8 +7,8 @@ Tại sao lại vậy, vì thầy giỏi thì rất khó tìm, tìm được cũ
 
 - Thứ hai: Hãy học một cách thật cẩn thận. Có nhiều sách để tham khảo. Tôi thì học ở 2 cuốn sách chính bên dưới. Bạn chỉ cần học hết một quyển là đủ rồi, phụ thuộc bạn thích cách diễn đạt ở quyền nào thôi.: 
 	
-	- Become ITIL Foundation Certified in 7 Days
-	- ITIL Foundation Exam Study Guide
+	- [Become ITIL Foundation Certified in 7 Days](https://github.com/TrongTan124/ghi-chep-ITIL-v3/raw/master/pdf/Become%20ITIL%20Foundation%20Certified%20in%207%20Days.pdf)
+	- [ITIL Foundation Exam Study Guide](https://github.com/TrongTan124/ghi-chep-ITIL-v3/raw/master/pdf/itil-foundation-exam-study-guide.pdf)
 	
 - Thứ 3: Sau khi nắm vững các kiến thức cơ bản về ITIL như: Service, Process (Objective, Scope, Purpose) thì luyện đề. Có nhiều trang luyện online. Hoặc mua bộ dump về học. Gắng luyện dump 10 ngày trước 
 ngày bạn đặt lịch thi
