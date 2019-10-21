@@ -17,13 +17,13 @@ ngày bạn đặt lịch thi
 
 Tôi lên google, gõ: pearsonvue itil và tìm kiếm. Tôi chọn vào website của pearsonvue [link](https://home.pearsonvue.com/peoplecert), đăng ký 01 tài khoản trên đó. Lựa chọn đăng ký thi
 
-!(pearsonvue)[images/pearsonvue.png]
+![pearsonvue](images/pearsonvue.png)
 
 Tìm ITIL và chọn language bạn muốn thi. có tiếng anh và tiếng nhật, ko thấy tiếng trung :D
 
 Sau đó chọn trung tâm khảo thí được uỷ quyền bởi pearsonvue thuận tiện cho bạn nhất, chọn ngày, và đóng tiền. Lựa chọn trung tâm theo vị trí mà bạn đang ở.
 
-!(pearsonvue1)[images/pearsonvue1.png]
+![pearsonvue1](images/pearsonvue1.png)
 
 Tôi sử dụng thẻ visa để trả phí đăng ký thi, giá lúc tôi thi là 358$ (~8,3tr VNĐ). Đây là tiền cá nhân nên tôi không làm thanh toán đi đâu cả.
 
